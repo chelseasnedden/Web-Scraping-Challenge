@@ -5,7 +5,7 @@ Complete initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Req
 Create a Jupyter Notebook file called mission_to_mars.ipynb and use this to complete all scraping and analysis tasks. 
 ___
 
-##Step 2 - MongoDB and Flask Application
+## Step 2 - MongoDB and Flask Application
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs given.
 
 Start by converting the Jupyter notebook into a Python script called scrape_mars.py with a function called scrape that will execute all of the scraping code from above and return one Python dictionary containing all of the scraped data.
